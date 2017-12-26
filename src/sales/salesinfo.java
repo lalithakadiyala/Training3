@@ -32,7 +32,7 @@ public class salesinfo {
 
 
 		Double getbonus() {
-			Double bonus = sales * .05;
+			Double bonus = sales * .06;
 			return bonus;
 		}
 
